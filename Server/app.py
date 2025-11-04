@@ -39,7 +39,7 @@ client = initialize_client(HF_TOKEN)
 patient_condition = None  # e.g., "Anxiety", "Depression", "Bipolar Disorder", "PTSD"
 patient_severity = None   # e.g., "mild", "moderate", "severe"
 session_turn_count = 0
-SESSION_LENGTH = 5  # Number of exchanges before therapist performance evaluation
+SESSION_LENGTH = 3  # Number of exchanges before therapist performance evaluation
 
 # Initialize TTS at startup (optional - will init on first use if this fails)
 print("Initializing Mozilla TTS (this may take a few minutes on first run)...")
