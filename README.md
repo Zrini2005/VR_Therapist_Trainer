@@ -47,7 +47,7 @@ The project consists of two main components:
    ```bash
    git clone https://github.com/Zrini2005/VR_Therapist_Trainer
 
-   cd VR-Therapist-Virtual-Mental-Health-Experience/Server
+   cd Server
    ```
 
 2. Install the required packages:
@@ -130,7 +130,7 @@ The project consists of two main components:
 
 1. Open Unity Hub and add the project:
    ```bash
-   Open Unity Hub > Add Project > Select `VR-Therapist-Virtual-Mental-Health-Experience/VR-Game`
+   Open Unity Hub > Add Project > Select `VR-Therapist-Training/VR-Game`
    ```
 
 2. Go to `Assets/Scenes/Menu` and run the scene:
@@ -170,6 +170,8 @@ Your therapeutic skills are evaluated on:
 
 ## Demo
 We have prepared a demo video to showcase the VR Therapist Trainer system. The video demonstrates the AI patient simulation, realistic symptom presentation, therapeutic interaction, and the automated evaluation system that provides feedback on trainee performance.
+https://drive.google.com/file/d/1xrXAWc_lkJQr3QY9JleLFLwsxcmfcFVa/view?usp=sharing
+
  
 
 *Note: Demo video shows the training mode where AI acts as a patient with mental health conditions.*
@@ -190,9 +192,9 @@ We have prepared a demo video to showcase the VR Therapist Trainer system. The v
 
 - **M Srinivas** (106123128) 
 
-- **Akhil Budi** (106123009)  
+- **Akhil Budithi** (106123009)  
 
-- **Eshaan Maane** (106123038)  
+- **Eshaan Mane** (106123038)  
 
 ## License
 
